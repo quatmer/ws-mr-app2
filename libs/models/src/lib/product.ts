@@ -1,5 +1,5 @@
-import { IProductCategory } from '@shared/models/product-category';
-import { IProductBrand } from '@shared/models/product-brand';
+import { IProductBrand } from './product-brand';
+import { IProductCategory } from './product-category';
 
 export interface IProduct extends IProductDocument {
   _id: string;
