@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ws-mr-app2/models": ["libs/models/src/index.ts"]
+      "@ws-mr-app2/models": ["libs/models/src/index.ts"],
+      "@ws-mr-app2/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

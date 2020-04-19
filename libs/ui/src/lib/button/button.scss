@@ -1,0 +1,18 @@
+button {
+  padding: 3px;
+  margin: 3px;
+  font-family: cursive;
+  font-size: 15px;
+  color: white;
+  min-width: 80px;
+}
+button.primary {
+  background-color: rgb(93, 93, 255);
+}
+button.secondary {
+  background-color: rgb(35, 158, 35);
+}
+
+button.tertiary {
+  background-color: rgb(168, 52, 52);
+}
